@@ -1,0 +1,29 @@
+
+text{font-size: 50px;color:green;}
+.body{min-height:100%;}
+.user{padding:16px 20px;background: #fff;}
+.user image{width:102rpx;height:102rpx;border-radius: 50%;margin-right: 15rpx;}
+.user .h3,.user .p{font-size: 26rpx;color:#333;font-weight: bold;}
+.user .p{color:#666;}
+.user text{font-size: 50rpx;color:#4d4d4d;}
+.money{padding:30rpx 0 40rpx;}
+.money .left{padding-left: 35rpx;}
+.money .p{font-size: 30rpx;margin-bottom: 10rpx;}
+.money .money-num{font-size: 40rpx;color:#4AA568;}
+.money .h4{font-size: 24rpx;margin-bottom: 20rpx;padding-right: 10rpx;}
+.money .h4 .text{margin-right: 14rpx;}
+.money image{width:30rpx;margin-right: 8rpx;}
+.money .top{-webkit-box-align: end;-webkit-align-items: flex-end;align-items: flex-end;}
+.money .h5{width:206rpx;line-height: 36rpx;height: 36rpx;border-radius:36rpx 0 0 36rpx;font-size: 24rpx;color:#fff;text-align: center;background: #4AA568;}
+.news{background: #eee;}
+.news .icon{padding:0 28rpx 0 30rpx;}
+.news text{font-size: 38rpx;color:#4AA568;}
+.news swiper,.news .news-item{height: 62rpx;line-height: 62rpx;font-size: 28rpx;}
+.banner{padding:10rpx;}
+.banner image{width:100%;}
+.icons{margin-top: 54rpx;}
+.icons .icon-list{font-size: 0;}
+.icons .item{width:25%;display: inline-block;vertical-align: top;font-size: 26rpx;text-align: center;margin-bottom: 50rpx;}
+.icons text{font-size: 50rpx;color:#7c7c7c;}
+.icons .p{padding-top: 16rpx;}
+
